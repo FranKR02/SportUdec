@@ -17,6 +17,7 @@ namespace SportUdec
 {
     public class Startup
     {
+        private readonly string MyCors = "MyCors";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -27,10 +28,18 @@ namespace SportUdec
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            
             services.AddControllers();
 
             services.AddDbContext<SportUdecContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("SportUdecContext")));
+            services.AddCors(options  => {
+                options.AddPolicy(name: MyCors, builder =>
+                {
+                    //builder.WithOrigins("http://localhost:3000/");
+                    builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost").AllowAnyHeader().AllowAnyMethod();
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +53,7 @@ namespace SportUdec
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseCors(MyCors);
 
             app.UseAuthorization();
 
