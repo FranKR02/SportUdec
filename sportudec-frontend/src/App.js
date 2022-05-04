@@ -79,8 +79,8 @@ class App extends Component {
         </div>
         {/* SERVICIOS */}
         <div className="servicios bg-light pt-4 pb-4 d-flex flex-column justify-content-around" id='servicios'>
-          <h2 className='title-about'>Servicios</h2>
-          <div className="container pt-3 h-100 d-flex align-items-baseline justify-content-around">
+          <h2 className='title-about pt-2'>Servicios</h2>
+          <div className="container pt-5 h-100 d-flex align-items-baseline justify-content-around">
             <div className="row">
               <div className="col-md-4">
                 <div className="card shadow-lg" style={{ height: "14rem", width: "22rem" }}>
@@ -131,7 +131,8 @@ class App extends Component {
                 <div className='iconos pt-3'>
                   <a className='icono-a' href="https://www.facebook.com/frank.rojas.9465177" target="_blank"><i className="fa-brands fa-facebook fa-3x shadow"></i></a>
                   <a className='icono-a' href="https://www.linkedin.com/in/frank02/" target="_blank"><i className="fa-brands fa-linkedin fa-3x shadow"></i></a>
-                  <a className='icono-a' href=""><i className="fa-solid fa-at fa-3x shadow"></i></a>
+                  <a className='icono-a' href="https://github.com/FranKR02" target="_blank"><i className="fa-brands fa-github fa-3x shadow"></i></a>
+                  <a className='icono-a' href="#"><i className="fa-solid fa-at fa-3x shadow"></i></a>
                 </div>
               </div>
               <div className="col-md-4">
@@ -155,6 +156,12 @@ class App extends Component {
                 </form>
               </div>
             </div>
+          </div>
+        </div>
+        {/* COPYRIGHT */}
+        <div className="bg-dark pb-2">
+          <div className="container copyright">
+            <p className='text-muted p-0 m-0'>&#169; Copyright 2022 | Designed by <a className='text-white fw-bolder' href='https://www.linkedin.com/in/frank02/' target="_blank" id='copy'>Frank Rojas</a></p>
           </div>
         </div>
       </div >

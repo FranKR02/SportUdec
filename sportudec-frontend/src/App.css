@@ -143,7 +143,7 @@
 }
 
 .servicios {
-  height: 22rem;
+  height: 28rem;
 }
 
 .card {
@@ -203,5 +203,14 @@ i {
   font-size: 2rem;
   transition: margin-top 0.3s;
   transition: font-size 0.3s;
+  text-decoration: none;
+}
+.copyright{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  color: white
+}
+#copy{
   text-decoration: none;
 }
