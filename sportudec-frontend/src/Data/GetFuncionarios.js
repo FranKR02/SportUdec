@@ -5,7 +5,7 @@ class GetFuncionarios extends Component {
         super(props)
         this.state = {
             todos: [],
-            id: this.props.id
+            id: ''
         }
     }
     componentDidMount() {
