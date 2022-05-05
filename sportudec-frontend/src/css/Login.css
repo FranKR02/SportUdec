@@ -1,0 +1,100 @@
+.login {
+    background-color: rgba(72, 74, 111, 1);
+    height: 49.5rem;
+}
+
+.row {
+    height: 100%;
+}
+
+.container-login {
+    height: 100%;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.link-login {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.link-login:hover {
+    color: rgba(255, 255, 255, 0.76);
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background: url(../images/udec.jpg);
+    background-position-x: -300px;
+    background-size: cover;
+}
+
+.img img {
+    width: 100%;
+}
+
+@media all and (min-width: 500px) and (max-width: 1000px) {
+    .img {
+        width: 100%;
+        height: 100%;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background: url(../images/udec.jpg);
+        background-position-x: -300px;
+        background-size: cover;
+
+    }
+}
+
+.img img {
+    width: 100%;
+}
+
+.btn-login {
+    position: absolute;
+    color: white;
+
+}
+
+.btn-login:hover {
+    color: rgba(255, 255, 255, 0.76);
+    font-size: 1.2rem;
+    transition: color 0.3s;
+    transition: font-size 0.3s;
+}
+
+.text-login {
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+
+.btn-log {
+    background-color: rgba(72, 74, 111, 1);
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+    border: 1px solid white;
+}
+
+.btn-log:hover {
+    background-color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: rgba(72, 74, 111, 1);
+    border: 1px solid white;
+    transition: color 0.3s;
+}
+.form-floating{
+    color: rgba(72, 74, 111, 1);
+}

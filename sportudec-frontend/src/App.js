@@ -1,4 +1,5 @@
 import { Component } from 'react';
+import Navbar from './components/Navbar';
 import './App.css';
 import GetFuncionarios from './Data/GetFuncionarios';
 import IMG from '../src/images/work-team.png'
@@ -16,41 +17,12 @@ class App extends Component {
         </div> */}
         <div className="img image-background p-0">
           <div className="main">
-            {/* NAVEGACION */}
-            <nav className="navbar navbar-expand-lg fw-bold" id='navbar'>
-              <div className="container d-flex">
-                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-                  <span className="navbar-toggler-icon"></span>
-                </button>
-                <div className="logo">
-                  <a className="navbar-brand color-text" href="#">SportUdec</a>
-                </div>
-                <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
-                  <ul className="navbar-nav me-auto mb-2 mb-lg-0 h-100">
-                    <li className="nav-item">
-                      <a className="nav-link active color-text" aria-current="page" href="#inicio">Inicio</a>
-                    </li>
-                    <li className="nav-item h-100">
-                      <a className="nav-link color-text" href="#nosotros">Nosotros</a>
-                    </li>
-                    <li className="nav-item">
-                      <a className="nav-link color-text" href='#servicios'>Servicios</a>
-                    </li>
-                    <li className="nav-item">
-                      <a className="nav-link color-text" href='#contacto'>Contacto</a>
-                    </li>
-                  </ul>
-                  <div className="buttons">
-                    <a className='btn btn-user rounded-pill me-3 fw-bold color-text'>Ingresar</a>
-                    <a className='btn btn-user rounded-pill fw-bold color-text'>Registrarse</a>
-                  </div>
-                </div>
-              </div>
-            </nav>
+        {/* NAVEGACION */}
+            <Navbar/>
             <div className="container container-main">
-              <h2 className='title-main fw-bold'>Haz conocida tu escuela deportiva</h2>
-              <p className='text-main'>Acercate a la Casa de la Cultura, solicita tu registro para que puedas</p>
-              <p className='text-main'>ser parte de nuestra comunida y logres que muchas </p>
+              <h2 className='title-main'>Haz conocida tu escuela deportiva</h2>
+              <p className='text-main'>Acércate a la Casa de la Cultura, solicita tu registro para que puedas</p>
+              <p className='text-main'>ser parte de nuestra comunidad y logres que muchas </p>
               <p className='text-main'>personas conozcan tu escuela deportiva.</p>
               <div>
                 <a className='btn btn-lg rounded-3 btn-about fw-bold me-2' href='#nosotros'>Ver más</a>
@@ -65,9 +37,9 @@ class App extends Component {
             <div className="row">
               <div className="col-md-6 about">
                 <h2 className='title-about'>Nosotros</h2>
-                <p className='text-about'>SportUdec es una pagina web que te facilitará la difusión de tu escuela deportiva con ayuda de la alcaldia municipal. Esto con la intención de apoyar el deporte y las escuelas deportivas del municipio para que se den a conocer a través de SportUdec. </p>
+                <p className='text-about'>SportUdec es una pagina web que te facilitará la difusión de tu escuela deportiva con ayuda de la alcaldía municipal. Esto con la intención de apoyar el deporte y las escuelas deportivas del municipio para que se den a conocer a través de SportUdec. </p>
                 <h2 className='title-about'>¿En qué me ayuda SportUdec?</h2>
-                <p className='text-about'>SportUdec busca reunir la mayor información de las escuelas deportivas del municipio de Facatativá en una sola página para que la población o gente interesada en realizar deporte en Facatativá pueda encontrar la información de forma rapida y segura. <br /> Ademas, si estás empezando o quieres tener más alumnos, puedes formar parte de SportUdec y dar a conocer tu escuela deportiva.  </p>
+                <p className='text-about'>SportUdec busca reunir la mayor información de las escuelas deportivas del municipio de Facatativá en una sola página para que la población o gente interesada en realizar deporte en Facatativá pueda encontrar la información de forma rapida, segura y centralizada. <br /> Ademas, si estás empezando o quieres tener más alumnos, puedes formar parte de SportUdec y dar a conocer tu escuela deportiva.  </p>
               </div>
               <div className="col-md-6">
                 <div className="box">
@@ -88,8 +60,7 @@ class App extends Component {
                     <h5 className="card-title m-0"><i className="fa-solid fa-headset fa-2x"></i></h5>
                     <h6 className="card-subtitle mb-2">Atención</h6>
                     <div className="container">
-                      <p className="card-text">Nuestros servicios se encargan automaticamente de guardar y publicar tu información.</p>
-
+                      <p className="card-text">Nuestros servicios se encargan de guardar y publicar automaticamente tu información.</p>
                     </div>
                   </div>
                 </div>
@@ -113,7 +84,6 @@ class App extends Component {
                     <h6 className="card-subtitle mb-2">Apoyo</h6>
                     <div className="container">
                       <p className="card-text">SportUdec ayuda a las pequeñas y grandes escuelas de formación deportiva.</p>
-
                     </div>
                   </div>
                 </div>
@@ -161,7 +131,7 @@ class App extends Component {
         {/* COPYRIGHT */}
         <div className="bg-dark pb-2">
           <div className="container copyright">
-            <p className='text-muted p-0 m-0'>&#169; Copyright 2022 | Designed by <a className='text-white fw-bolder' href='https://www.linkedin.com/in/frank02/' target="_blank" id='copy'>Frank Rojas</a></p>
+            <div className='text-muted p-0 m-0 h-100 d-flex justify-content-center align-items-center'>&#169; Copyright 2022 | Designed by<a className='text-white fw-bolder ps-1' href='https://www.linkedin.com/in/frank02/' target="_blank" id='copy'> Frank Rojas</a></div>
           </div>
         </div>
       </div >
