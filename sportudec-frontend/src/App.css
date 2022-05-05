@@ -231,3 +231,7 @@ i {
   margin-bottom: 10px;
   transition: margin-bottom 0.3s;
 }
+.btn-user:active {
+  border: 1px solid white;
+  box-shadow: none;
+}
