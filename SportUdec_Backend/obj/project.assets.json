@@ -8489,11 +8489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Frank Rojas\\source\\repos\\SportUdec_Backend\\SportUdec.csproj",
+      "projectUniqueName": "C:\\Users\\Frank Rojas\\Desktop\\SportUdec\\SportUdec_Backend\\SportUdec.csproj",
       "projectName": "SportUdec",
-      "projectPath": "C:\\Users\\Frank Rojas\\source\\repos\\SportUdec_Backend\\SportUdec.csproj",
+      "projectPath": "C:\\Users\\Frank Rojas\\Desktop\\SportUdec\\SportUdec_Backend\\SportUdec.csproj",
       "packagesPath": "C:\\Users\\Frank Rojas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Frank Rojas\\source\\repos\\SportUdec_Backend\\obj\\",
+      "outputPath": "C:\\Users\\Frank Rojas\\Desktop\\SportUdec\\SportUdec_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Frank Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",

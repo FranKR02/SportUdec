@@ -5,7 +5,8 @@ function DashboardOfficer() {
     // !Lo 1ero que hace es verificar que hay algo en el localStorage
     var local = localStorage.getItem("dataUser");
     // ?Si lo encuentra en el localStorage, retorna el dashboard
-    if (local) {
+    var dataUser = JSON.parse(localStorage.getItem("dataUser"));
+    if (local && dataUser?.cargo == 'funcionario') {
         return (
             <div className="dashboard">
                 <nav className="navbar navbar-expand-lg navbar-light bg-dark">

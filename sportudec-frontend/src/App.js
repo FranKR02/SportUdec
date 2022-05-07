@@ -9,6 +9,8 @@ import {
 } from "react-router-dom";
 import Login from './views/Login';
 import DashboardOfficer from './views/DashboardOfficer';
+import Count from './views/Count';
+import LoginOfficer from './views/LoginOfficer';
 
 class App extends Component {
   render() {
@@ -24,7 +26,7 @@ class App extends Component {
                     <span className="navbar-toggler-icon"></span>
                   </button>
                   <div className="logo">
-                    <a className="navbar-brand color-text" href="#">SportUdec</a>
+                    <Link to='/Home' className="navbar-brand color-text">SportUdec</Link>
                   </div>
                   <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 h-100">
@@ -178,8 +180,13 @@ class App extends Component {
               <Route exact path="/" element={<Main />} />
               {/* Ruta absoluta (/Home) y relativa (/) */}
 
-
+              {/* Login club */}
               <Route exact path="/Login" element={<Login />} />
+              {/* Login Funcionario */}
+              <Route exact path="/LoginOfficer" element={<LoginOfficer />} />
+              {/* Vista del club */}
+              <Route exact path="/Count" element={<Count />} />
+              {/* Vista del administrador */}
               <Route exact path='/Dashboard' element={<DashboardOfficer />}/>
             </Routes>
           </div >

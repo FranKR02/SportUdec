@@ -1,0 +1,28 @@
+.img-header {
+    background-image: url(../images/udeCount.jpeg);
+    height: 667px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+}
+
+.centrarimg {
+    bottom: 1cm;
+    background-color: transparent;
+    border: none;
+}
+
+.parrafo {
+    text-align: left;
+}
+
+.parrafocen {
+    text-align: right;
+}

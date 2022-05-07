@@ -1,8 +1,7 @@
-
 // Con este metodo verificamos si el usuario tiene una cuenta en la pagina
-//?Retona un objeto del tipo usuario (Officer o SportClub) o error en el status code
-export async function getFuncionario(email, password) {
-    var funcionario;
+//?Retona un objeto del tipo usuario (SportClub) o error en el status code
+export async function getOfficer(email, password) {
+    var officer;
     const requestOptions = {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -16,12 +15,12 @@ export async function getFuncionario(email, password) {
         .then(response => response.json())
         //La respuesta ahora es data, datos = data
         .then(data => {
-            funcionario = data;
+            officer = data;
         }).catch(() => {
             //Si captura algun error lo retornamos como error
-            funcionario = "error"
+            officer = "error"
         });
-    return funcionario;
+    return officer;
 }
 
 //! Se pueden poner mas metodos acá, SOLO PARA EL FUNCIONARIO
