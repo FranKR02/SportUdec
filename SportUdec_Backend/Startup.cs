@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using SportUdec.Data;
+using SportUdec.Models;
 
 namespace SportUdec
 {
@@ -28,18 +28,28 @@ namespace SportUdec
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
+            services.AddEntityFrameworkNpgsql()
+      .AddDbContext<SportUdecContext>(options =>
+      {
+          options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"));
+      });
             services.AddControllers();
-
-            services.AddDbContext<SportUdecContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("SportUdecContext")));
-            services.AddCors(options  => {
+            services.AddCors(options => {
                 options.AddPolicy(name: MyCors, builder =>
                 {
                     //builder.WithOrigins("http://localhost:3000/");
                     builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost").AllowAnyHeader().AllowAnyMethod();
                 });
             });
+            //services.AddDbContext<SportUdecContext>(options =>
+            //        options.UseSqlServer(Configuration.GetConnectionString("SportUdecContext")));
+            //services.AddCors(options  => {
+            //    options.AddPolicy(name: MyCors, builder =>
+            //    {
+            //        //builder.WithOrigins("http://localhost:3000/");
+            //        builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost").AllowAnyHeader().AllowAnyMethod();
+            //    });
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

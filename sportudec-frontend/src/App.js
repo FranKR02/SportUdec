@@ -1,6 +1,5 @@
-import { Component } from 'react';
+import { Component, Fragment } from 'react';
 import './App.css';
-import GetFuncionarios from './Data/GetFuncionarios';
 import IMG from '../src/images/work-team.png'
 import {
   BrowserRouter as Router,
@@ -8,7 +7,8 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import Login from './components/Login';
+import Login from './views/Login';
+import DashboardOfficer from './views/DashboardOfficer';
 
 class App extends Component {
   render() {
@@ -168,22 +168,23 @@ class App extends Component {
     }
     return (
       <Router>
-        <div className="App">
-          <Routes>
-            <Route exact path="/Home" element={<Main />} />
-            <Route exact path="/Login" element={<Login />} />
-            <Route exact path="/" element={<Main />} />
-          </Routes>
-        </div >
-        {/* <div className="header">
-          <div className="container">
-            <h1 className='display-4 fw-bolder pb-2 text-white'>SportUdec</h1>
-          </div>
-        </div>
-        <div className="container">
-          <GetFuncionarios />
-        </div> */}
+        <Fragment>
+          <div className="App">
+            <Routes>
+              {/* //!TODAS LAS RUTAS DE LA PAGINA DEBEN IR ACA, ROUTER PADRE*/}
+              {/* El <Main/> es el mentodo, no un componente */}
+              {/* Se usa una funcion ya que si se deja normal se va a mostrar ese contenido mas lo del login */}
+              <Route exact path="/Home" element={<Main />} />
+              <Route exact path="/" element={<Main />} />
+              {/* Ruta absoluta (/Home) y relativa (/) */}
 
+
+              <Route exact path="/Login" element={<Login />} />
+              <Route exact path='/Dashboard' element={<DashboardOfficer />}/>
+            </Routes>
+          </div >
+
+        </Fragment>
       </Router>
     );
   }

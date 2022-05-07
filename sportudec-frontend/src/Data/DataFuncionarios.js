@@ -1,35 +1,27 @@
-export function getFuncionario(email, password) {
+
+// Con este metodo verificamos si el usuario tiene una cuenta en la pagina
+//?Retona un objeto del tipo usuario (Officer o SportClub) o error en el status code
+export async function getFuncionario(email, password) {
     var funcionario;
-    // fetch('https://localhost:44301/login', {
-    //     method: 'POST',
-    //     headers: {
-    //         'Accept': 'application/json',
-    //         'Content-Type': 'application/json'
-    //     },
-    //     body: JSON.stringify({
-    //         correo: email,
-    //         clave: password
-    //     })
-    // }).then((response) => {
-    //     console.log(response)
-    // }).then((funcionarios) => {
-    //     console.log(funcionarios)
-    //     funcionario = funcionarios;
-    //     // this.setState({ todos: empleados.results }) //RICk Y MORTY
-    // });
     const requestOptions = {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ 
+        body: JSON.stringify({
             correo: email,
             clave: password
-         })
+        })
     };
-    fetch('https://localhost:44301/login', requestOptions)
+    await fetch('https://localhost:44301/login', requestOptions)
+        //Volvemos la respuesta a json
         .then(response => response.json())
+        //La respuesta ahora es data, datos = data
         .then(data => {
             funcionario = data;
+        }).catch(() => {
+            //Si captura algun error lo retornamos como error
+            funcionario = "error"
         });
     return funcionario;
-
 }
+
+//! Se pueden poner mas metodos acá, SOLO PARA EL FUNCIONARIO

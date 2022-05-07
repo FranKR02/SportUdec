@@ -131,3 +131,272 @@ C:\Users\Frank Rojas\source\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\Spor
 C:\Users\Frank Rojas\source\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.dll
 C:\Users\Frank Rojas\source\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.pdb
 C:\Users\Frank Rojas\source\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.genruntimeconfig.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.StaticWebAssets.xml
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.exe
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.deps.json
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.runtimeconfig.json
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.runtimeconfig.dev.json
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.pdb
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.csproj.AssemblyReference.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.AssemblyInfoInputs.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.AssemblyInfo.cs
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.csproj.CoreCompileInputs.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\staticwebassets\SportUdec.StaticWebAssets.Manifest.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.RazorTargetAssemblyInfo.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.csproj.CopyComplete
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.dll
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.pdb
+C:\Users\57305\Desktop\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.genruntimeconfig.cache
+C:\Users\57305\Desktop\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.Views.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.pdb
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.csproj.AssemblyReference.cache
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.AssemblyInfoInputs.cache
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.AssemblyInfo.cs
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.csproj.CoreCompileInputs.cache
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.exe
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.deps.json
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.runtimeconfig.json
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.runtimeconfig.dev.json
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.pdb
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\SportUdec.Views.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\staticwebassets\SportUdec.StaticWebAssets.Manifest.cache
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\staticwebassets\SportUdec.StaticWebAssets.xml
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportUdec.styles.css
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.RazorTargetAssemblyInfo.cache
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.csproj.CopyComplete
+C:\Users\Frank Rojas\Downloads\repos\repos\SportUdec_Backend\obj\Debug\netcoreapp3.1\SportUdec.genruntimeconfig.cache
