@@ -30,17 +30,17 @@ class App extends Component {
                   </div>
                   <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 h-100">
-                      <li className="nav-item">
-                        <a className="nav-link active color-text" aria-current="page" href="#">Inicio</a>
+                      <li className="nav-itemm">
+                        <a className="nav-link nav-linkk active color-text" aria-current="page" href="#">Inicio</a>
                       </li>
-                      <li className="nav-item h-100">
-                        <a className="nav-link color-text" href="#nosotros">Nosotros</a>
+                      <li className="nav-itemm h-100">
+                        <a className="nav-link nav-linkk color-text" href="#nosotros">Nosotros</a>
                       </li>
-                      <li className="nav-item">
-                        <a className="nav-link color-text" href='#servicios'>Servicios</a>
+                      <li className="nav-itemm">
+                        <a className="nav-link nav-linkk color-text" href='#servicios'>Servicios</a>
                       </li>
-                      <li className="nav-item">
-                        <a className="nav-link color-text" href='#contacto'>Contactos</a>
+                      <li className="nav-itemm">
+                        <a className="nav-link nav-linkk color-text" href='#contacto'>Contactos</a>
                       </li>
                     </ul>
                     <div className="buttons">

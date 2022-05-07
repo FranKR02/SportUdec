@@ -6,7 +6,7 @@
   padding: 0px;
 }
 
-.nav-link {
+.nav-linkk {
   padding: 0;
 }
 
@@ -28,13 +28,13 @@
   top: 13px;
 }
 
-.nav-link:hover {
+.nav-linkk:hover {
   color: rgba(72, 74, 111, 0.7);
   font-size: 2rem;
   transition: font-size 0.3s;
 }
 
-.nav-item:hover {
+.nav-itemm:hover {
   color: rgba(72, 74, 111, 0.7);
   background-color: white;
   border-radius: 0 0 20px 20px;
@@ -42,7 +42,7 @@
   transition: font-size 0.3s;
 }
 
-.nav-item {
+.nav-itemm {
   display: flex;
   align-items: center;
   padding: 5px;

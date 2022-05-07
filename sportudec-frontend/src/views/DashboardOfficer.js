@@ -9,99 +9,72 @@ function DashboardOfficer() {
     if (local && dataUser?.cargo == 'funcionario') {
         return (
             <div className="dashboard">
-                <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-                    <div className="container-fluid">
-                        <button className="navbar-toggler me-2" type="button" data-bs-toggle="offcanvas"
-                            data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
-                            <span data-bs-target="#offcanvasExample" className="navbar-toggler-icon"></span>
-                        </button>
-                        <a className="navbar-brand fw-bold btn-close-white text-uppercase me-auto" href="#">SportUdec</a>
-                        <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                            aria-label="Toggle navigation">
-                            <span className="navbar-toggler-icon"></span>
-                        </button>
-                        <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                            <form className="d-flex ms-auto">
-                                <div className="input-group my-3 my-lg-0">
-                                    <input type="text" className="form-control" placeholder="Recipient's username"
-                                        aria-label="Recipient's username" aria-describedby="button-addon2" />
-                                    <button className="btn btn-outline-secondary" type="button" id="button-addon2"><i
-                                        className="bi bi-search"></i></button>
-                                </div>
-                            </form>
-                            <ul className="navbar-nav mb-2 mb-lg-0">
-                                <li className="nav-item dropdown">
-                                    <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                        data-bs-toggle="dropdown" aria-expanded="false">
-                                        <i className="bi bi-person-circle bnt btn-outline-secondary"></i>
+                <div className="container-fluid">
+                    <div className="row flex-nowrap">
+                        <div className="col-auto col-md-3 col-xl-2 px-sm-2 px-0 bg-dark">
+                            <div className="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
+                                <a href="#" className="d-flex align-items-center pb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+                                    <h2 className="fs-5 d-none d-sm-inline text-center h-100">Menu</h2>
+                                </a>
+                                {/* MENU */}
+                                <ul className="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
+                                    <li className="nav-item">
+                                        <a href="#" className="nav-link nav-link-menu align-middle px-0">
+                                            <i className="fa-solid fa-house"></i><span className="ms-1 d-none d-sm-inline ps-2">Inicio</span>
+                                        </a>
+                                    </li>
+                                    {/* MENU PARA EL CRUD DE LOS CLUBS */}
+                                    <li>
+                                        <a href="#clubs" data-bs-toggle="collapse" className="nav-link nav-link-menu px-0 align-middle">
+                                            <i className="fa-solid fa-people-group"></i><span className="ms-1 d-none d-sm-inline ps-2">Clubs</span> </a>
+                                        <ul className="collapse show nav flex-column ms-1" id="clubs" data-bs-parent="#menu">
+                                            <li className="w-100 ps-3">
+                                                <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Ingresar Club</span></a>
+                                            </li>
+                                            <li className="w-100 ps-3">
+                                                <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Ver Clubs</span></a>
+                                            </li>
+                                            <li className="w-100 ps-3">
+                                                <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Editar Club</span></a>
+                                            </li>
+                                            <li className="w-100 ps-3">
+                                                <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Eliminar Club</span></a>
+                                            </li>
+
+                                        </ul>
+                                    </li>
+                                    {/* MENU PARA VER PROFESORES */}
+                                    <li>
+                                        <a href="#profesores" data-bs-toggle="collapse" className="nav-link nav-link-menu px-0 align-middle ">
+                                            <i className="fa-solid fa-chalkboard-user"></i><span className="ms-1 d-none d-sm-inline ps-2">Profesores</span></a>
+                                        <ul className="collapse nav flex-column ms-1" id="profesores" data-bs-parent="#menu">
+                                            <li className="w-100 ps-3">
+                                                <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Ver profesores</span></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <hr />
+                                {/* Boton para salir */}
+                                <div className="dropdown pb-4">
+                                    <a href="#" className="d-flex align-items-baseline text-white text-decoration-none dropdown-toggle icon-user" id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <div className="rounded-circle">
+                                            <i className="fa-solid fa-user"></i>
+                                        </div>
+                                        <span className="d-none d-sm-inline mx-1 ps-2">Funcionario</span>
                                     </a>
-                                    <ul className="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                        <li><a className="dropdown-item" href="#">Perfil</a></li>
-                                        <li><a className="dropdown-item" href="#">Asdf</a></li>
-                                        <li>
-                                            <hr className="dropdown-divider" />
-                                        </li>
-                                        <li><a className="dropdown-item" href="#">Cerrar sesíon</a></li>
+                                    <ul className="dropdown-menu dropdown-menu-dark text-small shadow" aria-labelledby="dropdownUser1">
+                                        <li><a className="dropdown-item" href="#">Sign out</a></li>
                                     </ul>
-                                </li>
-                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col py-3">
+                            <h3>Deben mostrar por acá</h3>
                         </div>
                     </div>
-                </nav>
-                <div className="offcanvas offcanvas-start bg-dark text-white sidebar-nav" tabIndex="-1" id="offcanvasExample"
-                    aria-labelledby="offcanvasExampleLabel">
-                    <div className="offcanvas-body p-0">
-                        <nav className="navbar-dark">
-                            <ol className="navbar-dark">
-                                <li>
-                                    <div className="text-muted small fw-bold text-uppercase px-3">
-                                        Escuelas
-                                    </div>
-                                </li>
-                                <li>
-                                    <a href="#" className="nav-link px-3 active">
-                                        <span className="me-2">
-                                            <i className="bi bi-clipboard-data"></i>
-                                        </span>
-                                        <span>Lista de Escuelas</span>
-                                    </a>
-                                    <ul>
-                                        <li>
-                                            <span className="nav-link px-3"><i className="bi bi-book"></i> Crear</span>
-                                        </li>
-                                        <li>
-                                            <span className="nav-link px-3"><i className="bi bi-trash"></i> Eliminar</span>
-                                        </li>
-                                        <li>
-                                            <span className="nav-link px-3"><i className="bi bi-pencil"></i> Editar</span>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li className="my-4">
-                                    <hr className="dropdown-divider" />
-                                </li>
-                                <li>
-                                    <a href="#" className="nav-link px-3 active">
-                                        <span className="me-2">
-                                            <i className="bi bi-person-check"></i>
-                                        </span>
-                                        <span>Profesores</span>
-                                    </a>
-                                    <a  className="nav-link px-3 active">
-                                        <span className="me-2">
-                                            <i className="bi bi-map"></i>
-                                        </span>
-                                        <span>Locaciones</span>
-                                    </a>
-                                </li>
-                            </ol>
-                        </nav>
-                    </div>
                 </div>
-                <main className="mt-5 pt-3">
-                </main>
-            </div>
+            </div >
         )
     } else {
         //! Si no hay nada en el localStorage, dirige al login
