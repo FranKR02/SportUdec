@@ -1,8 +1,28 @@
 import React, { Component } from 'react';
-import { Navigate } from 'react-router-dom';
+import { Link, Navigate } from 'react-router-dom';
 import '../css/DashboardOfficer.css'
+import CreateClub from './CreateClub';
+import GetClubs from './GetClubs';
 
 class DashboardOfficer extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            vista: ''
+        }
+    }
+    vistaInicio = () => {
+        this.setState({ vista: <h1>Hola</h1> });
+    }
+    componentDidMount() {
+        this.setState({ vista: <h1>Hola</h1> });
+    }
+    getClubs = () => {
+        this.setState({ vista: <GetClubs /> });
+    }
+    createClub = () => {
+        this.setState({ vista: <CreateClub /> });
+    }
     render() {
         const signOut = (() => {
             //Borra el localStorage y forza el renderizado para que salga
@@ -18,16 +38,16 @@ class DashboardOfficer extends Component {
                     <div className="container-fluid">
                         <div className="row flex-nowrap">
                             <div className="col-auto col-md-3 col-xl-2 px-sm-2 px-0 bg-dark">
-                                <div className="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
-                                    <a href="#" className="d-flex align-items-center pb-3 mb-md-0 me-md-auto text-white text-decoration-none">
-                                        <h2 className="fs-5 d-none d-sm-inline text-center h-100">Menu</h2>
+                                <div className="fw-bold d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
+                                    <a className="d-flex justify-content-center align-items-center pb-3 mt-3 w-100 text-white text-decoration-none">
+                                        <h2 className="fw-boldfs-5 d-none d-sm-inline text-center h-100">Menu</h2>
                                     </a>
                                     {/* MENU */}
                                     <ul className="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
                                         <li className="nav-item">
-                                            <a href="#" className="nav-link nav-link-menu align-middle px-0">
-                                                <i className="fa-solid fa-house"></i><span className="ms-1 d-none d-sm-inline ps-2">Inicio</span>
-                                            </a>
+                                            <button className="nav-link nav-link-menu align-middle px-0" onClick={this.vistaInicio}>
+                                                <i className="fa-solid fa-house"></i><span className="fw-bold ms-1 d-none d-sm-inline ps-2">Inicio</span>
+                                            </button>
                                         </li>
                                         {/* MENU PARA EL CRUD DE LOS CLUBS */}
                                         <li>
@@ -35,18 +55,11 @@ class DashboardOfficer extends Component {
                                                 <i className="fa-solid fa-people-group"></i><span className="ms-1 d-none d-sm-inline ps-2">Clubs</span> </a>
                                             <ul className="collapse show nav flex-column ms-1" id="clubs" data-bs-parent="#menu">
                                                 <li className="w-100 ps-3">
-                                                    <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Ingresar Club</span></a>
+                                                    <button className="nav-link text-white" onClick={this.createClub} ><span className="fw-bold d-none d-sm-inline">Ingresar Club</span></button>
                                                 </li>
                                                 <li className="w-100 ps-3">
-                                                    <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Ver Clubs</span></a>
+                                                    <a href="#" className="nav-link text-white" onClick={this.getClubs}><span className="d-none d-sm-inline">Ver Clubs</span></a>
                                                 </li>
-                                                <li className="w-100 ps-3">
-                                                    <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Editar Club</span></a>
-                                                </li>
-                                                <li className="w-100 ps-3">
-                                                    <a href="#" className="nav-link text-white"><span className="d-none d-sm-inline">Eliminar Club</span></a>
-                                                </li>
-
                                             </ul>
                                         </li>
                                         {/* MENU PARA VER PROFESORES */}
@@ -75,8 +88,8 @@ class DashboardOfficer extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col py-3">
-                                <h3>Deben mostrar por acá</h3>
+                            <div className="col py-3" >
+                                {this.state.vista}
                             </div>
                         </div>
                     </div>

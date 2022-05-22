@@ -1,5 +1,5 @@
 .logo {
-  width: 37%;
+  width: 30%;
 }
 
 .navbar {
@@ -166,7 +166,7 @@ i {
   font-weight: 500;
 }
 
-.card:hover {
+.card-services:hover {
   background-color: rgba(72, 74, 111, 0.7);
   color: white;
   margin-top: 15px;

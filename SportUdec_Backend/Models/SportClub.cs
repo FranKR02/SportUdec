@@ -15,6 +15,8 @@ namespace SportUdec.Models
         public string ManagerName { get; set; }
         public int? Id { get; set; }
         public string PhysicalResources { get; set; }
+        public string sport { get; set; }
+
 
         public virtual Official IdNavigation { get; set; }
 

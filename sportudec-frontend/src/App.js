@@ -40,11 +40,14 @@ class App extends Component {
                         <a className="nav-link nav-linkk color-text" href='#servicios'>Servicios</a>
                       </li>
                       <li className="nav-itemm">
+                        <a className="nav-link nav-linkk color-text" href='#escuelas'>Escuelas</a>
+                      </li>
+                      <li className="nav-itemm">
                         <a className="nav-link nav-linkk color-text" href='#contacto'>Contactos</a>
                       </li>
                     </ul>
                     <div className="buttons">
-                      <Link to="/Login" className='btn btn-user rounded-pill me-3 fw-bold color-text'>Ingresar</Link>
+                      <Link to="/Login" className='btn btn-user rounded-pill me-3 fw-bold color-text'>{localStorage.getItem("dataUser")? "Cuenta": "Ingresar" }</Link>
                     </div>
                   </div>
                 </div>
@@ -86,7 +89,7 @@ class App extends Component {
             <div className="container pt-5 h-100 d-flex align-items-baseline justify-content-around">
               <div className="row">
                 <div className="col-md-4">
-                  <div className="card shadow-lg" style={{ height: "14rem", width: "22rem" }}>
+                  <div className="card card-services shadow-lg" style={{ height: "14rem", width: "22rem" }}>
                     <div className="card-body d-flex flex-column justify-content-center align-items-center">
                       <h5 className="card-title m-0"><i className="fa-solid fa-headset fa-2x"></i></h5>
                       <h6 className="card-subtitle mb-2">Atención</h6>
@@ -97,7 +100,7 @@ class App extends Component {
                   </div>
                 </div>
                 <div className="col-md-4">
-                  <div className="card shadow-lg" style={{ height: "14rem", width: "22rem" }}>
+                  <div className="card card-services shadow-lg" style={{ height: "14rem", width: "22rem" }}>
                     <div className="card-body d-flex flex-column justify-content-center align-items-center">
                       <h5 className="card-title m-0"><i className="fa-solid fa-newspaper fa-2x"></i></h5>
                       <h6 className="card-subtitle mb-2">Difusion</h6>
@@ -109,7 +112,7 @@ class App extends Component {
                   </div>
                 </div>
                 <div className="col-md-4">
-                  <div className="card shadow-lg" style={{ height: "14rem", width: "22rem" }}>
+                  <div className="card card-services shadow-lg" style={{ height: "14rem", width: "22rem" }}>
                     <div className="card-body d-flex flex-column justify-content-center align-items-center">
                       <h5 className="card-title m-0"><i className="fa-solid fa-basketball fa-2x"></i></h5>
                       <h6 className="card-subtitle mb-2">Apoyo</h6>
@@ -187,7 +190,7 @@ class App extends Component {
               {/* Vista del club */}
               <Route exact path="/Count" element={<Count />} />
               {/* Vista del administrador */}
-              <Route exact path='/Dashboard' element={<DashboardOfficer />}/>
+              <Route exact path='/Dashboard' element={<DashboardOfficer />} />
             </Routes>
           </div >
 
