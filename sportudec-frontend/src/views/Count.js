@@ -25,7 +25,7 @@ function Count() {
                                     <Link to='/Home' className="nav-link nav-linkk active color-text" aria-current="page" href="#">Inicio</Link>
                                 </li>
                                 <li className="nav-itemm h-100">
-                                    <a className="nav-link nav-linkk color-text" href="#nosotros">Escuelas</a>
+                                    <Link to='/Schools' className="nav-link nav-linkk color-text">Clubs</Link>
                                 </li>
                             </ul>
                             <div className="buttons">

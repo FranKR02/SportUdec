@@ -11,6 +11,7 @@ import Login from './views/Login';
 import DashboardOfficer from './views/DashboardOfficer';
 import Count from './views/Count';
 import LoginOfficer from './views/LoginOfficer';
+import Schools from './views/Schools';
 
 class App extends Component {
   render() {
@@ -40,7 +41,7 @@ class App extends Component {
                         <a className="nav-link nav-linkk color-text" href='#servicios'>Servicios</a>
                       </li>
                       <li className="nav-itemm">
-                        <a className="nav-link nav-linkk color-text" href='#escuelas'>Escuelas</a>
+                        <Link to='/Schools' className="nav-link nav-linkk color-text">Clubs</Link>
                       </li>
                       <li className="nav-itemm">
                         <a className="nav-link nav-linkk color-text" href='#contacto'>Contactos</a>
@@ -191,6 +192,8 @@ class App extends Component {
               <Route exact path="/Count" element={<Count />} />
               {/* Vista del administrador */}
               <Route exact path='/Dashboard' element={<DashboardOfficer />} />
+              {/* Vista de las escuelas */}
+              <Route exact path='/Schools' element={<Schools />} />
             </Routes>
           </div >
 

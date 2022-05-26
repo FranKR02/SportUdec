@@ -108,7 +108,6 @@ class GetClubs extends Component {
 
     render() {
         var club = this.state.clubs.map((club) => {
-
             return (
                 <tr key={club.idSportclub}>
                     <td className='td-align text-center'>{club.idSportclub}</td>
